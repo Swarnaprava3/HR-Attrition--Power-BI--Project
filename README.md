@@ -75,6 +75,10 @@ This dashboard shows general company information and salary trends.
 6. **Help Young Employees**: Younger people (18-35 years old) leave more often. Give them career growth chances so they want to stay.
 
 7. **Keep the Good People**: Once someone has been here 11 years, they usually stay. Use these people as mentors for new employees.
+8. <img width="1151" height="640" alt="Attrition Overview-2" src="https://github.com/user-attachments/assets/f2743fac-3059-44f9-8c3e-cd43c9511f73" />
+<img width="1152" height="645" alt="HR Overview" src="https://github.com/user-attachments/assets/c979e362-523e-4a81-b292-51a273c33ce3" />
+
+
 
 
 ---
