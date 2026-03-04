@@ -24,7 +24,7 @@ This dashboard shows detailed information about employee departures.
 - **Age Groups**: Younger and older employees leave at different rates
 - **Job Details Table**: Shows which jobs are riskier based on age, satisfaction, and overtime
 
-## � Main Dashboard 2: Company Overview & Salary Analysis
+##  Main Dashboard 2: Company Overview & Salary Analysis
 
 This dashboard shows general company information and salary trends.
 
@@ -41,7 +41,7 @@ This dashboard shows general company information and salary trends.
 - **Salary Growth Chart**: Shows how salary increases as people get older
 - **Job Details by Role**: Specific data for each job type with satisfaction, overtime, and tenure information
 
-## �🔍 Key Insights
+## 🔍 Key Insights
 
 **Jobs with Most Quitting Employees:**
 - **Research Scientists**: 33% quit rate (BIGGEST PROBLEM)
@@ -58,7 +58,7 @@ This dashboard shows general company information and salary trends.
 - Older employees (45+) tend to stay longer
 - Most employees have been here for 11 years on average
 
-## � What The Company Should Do
+##  What The Company Should Do
 
 **Stop People From Quitting:**
 
@@ -76,9 +76,6 @@ This dashboard shows general company information and salary trends.
 
 7. **Keep the Good People**: Once someone has been here 11 years, they usually stay. Use these people as mentors for new employees.
 
-8. **Listen to Employees**: Ask them honestly why some people quit and create solutions based on what they say.
 
 ---
 
-**Last Updated**: March 2026  
-**Report Version**: 1.0
