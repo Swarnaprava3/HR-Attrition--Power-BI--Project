@@ -6,6 +6,14 @@ A simple Power BI dashboard that shows why employees leave the company and how t
 
 This report looks at employee data to find out which employees are likely to leave and why. It helps HR teams understand the main reasons people quit and what can be done to stop it.
 
+   <img width="1162" height="651" alt="Attrition overview" src="https://github.com/user-attachments/assets/2cfec542-1359-49d7-8530-7910c6484bba" />
+
+
+   <img width="1151" height="646" alt="Attrition overview-2" src="https://github.com/user-attachments/assets/42df7cfa-b8e0-4169-827f-e9ac9f991bf0" />
+
+
+  
+
 ## 📈 Main Dashboard 1: Attrition Overview
 
 This dashboard shows detailed information about employee departures.
@@ -76,12 +84,5 @@ This dashboard shows general company information and salary trends.
 
 7. **Keep the Good People**: Once someone has been here 11 years, they usually stay. Use these people as mentors for new employees.
 
-   <img width="1162" height="651" alt="Attrition overview" src="https://github.com/user-attachments/assets/2cfec542-1359-49d7-8530-7910c6484bba" />
-
-
-   <img width="1151" height="646" alt="Attrition overview-2" src="https://github.com/user-attachments/assets/42df7cfa-b8e0-4169-827f-e9ac9f991bf0" />
-
-
-  
 ---
 
